@@ -1,3 +1,3 @@
 # Spatial
 
-[![Install](https://google.com)]
+[![Install](https://google.com)[https://google.com]
