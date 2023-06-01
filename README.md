@@ -1,3 +1,3 @@
 # Spatial
 
-[![Install](https://google.com)[https://google.com]
+[![Install](https://github.com/Sleitnick/rbxts-proton/actions/workflows/lint.yaml/badge.svg)](https://github.com/Sleitnick/rbxts-proton/actions/workflows/lint.yaml)
