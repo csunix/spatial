@@ -1,3 +1,3 @@
 # Spatial
 
-[![Install](https://github.com/Sleitnick/rbxts-proton/actions/workflows/lint.yaml/badge.svg)](https://github.com/Sleitnick/rbxts-proton/actions/workflows/lint.yaml)
+[![Install](https://img.shields.io/badge/Install-Spatial-success)](https://)
